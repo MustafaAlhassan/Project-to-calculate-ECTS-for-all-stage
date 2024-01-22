@@ -1,0 +1,86 @@
+Student name:
+Mariwan Wahid Ahmed
+Student ID:
+126687
+digital fundimentals and electronic
+88
+Mathmatic for computer science
+88
+Kurdology
+60
+Problem solving and programming
+85
+english language
+88
+University work and enviorment
+77
+College algebra
+66
+english language
+99
+essintial of compputing
+77
+Imperative programming
+98
+Physical education
+88
+Computer Architecture
+77
+principle of networking
+88
+OOP
+90
+Data Structure
+90
+IS
+88
+Numerical analysis
+99
+Computer algorithms
+78
+Data communication
+49
+Operating System
+88
+Is design
+36
+AOP
+86
+Statistics
+88
+computer graphics
+18
+web programming
+60
+AI
+99
+Data base concept
+88
+data security
+45
+computation
+87
+web development 
+42
+compiler
+87
+computer vision 
+77
+information security 
+76
+database mangement system
+99
+data science
+68
+mobile application
+50
+IOT
+66
+ethical hacking
+99
+mechine learning
+77
+enterprise system
+68
+multimedia systems
+90
