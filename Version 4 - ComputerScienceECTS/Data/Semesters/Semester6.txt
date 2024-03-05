@@ -1,0 +1,10 @@
+web development
+8
+compiler
+5
+computer vision
+7
+information security
+5
+database mangement system
+5
